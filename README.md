@@ -23,6 +23,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 # PROGRAM :
+```
 {% load static %}
 <!DOCTYPE html>
 <html lang="en">
@@ -83,6 +84,7 @@ Publish the website in the given URL.
 
 </body>
 </html>
+```
 
 # OUTPUT:
 ![alt text](image.png)
